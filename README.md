@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:01696f,100:0c4e54&height=200&section=header&text=Sslicky&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=IT%20Infrastructure%20%26%20Homelab&descSize=20&descAlignY=62&descColor=a0d4d8&animation=fadeIn)
 
-<img src="https://komarev.com/ghpvc/?username=Sslicky&style=for-the-badge&color=01696f" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Sslicky&amp;style=for-the-badge&amp;color=01696f" alt="Profile views"/>
 
 </div>
 
@@ -18,12 +18,12 @@
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
 ![Exchange](https://img.shields.io/badge/Exchange_Online-0078D4?style=flat-square&logo=microsoft-exchange&logoColor=white)
 
-### Réseau & Sécurité
+### Réseau &amp; Sécurité
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 ![BGP](https://img.shields.io/badge/BGP_Routing-333333?style=flat-square&logo=cisco&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN_IPSec%2FSSL-333333?style=flat-square&logo=wireguard&logoColor=white)
 
-### Infrastructure & Homelab
+### Infrastructure &amp; Homelab
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Debian_Linux-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Synology](https://img.shields.io/badge/Synology_NAS-B5B5B6?style=flat-square&logo=synology&logoColor=white)
@@ -32,7 +32,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
-### Scripting & Outils
+### Scripting &amp; Outils
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
@@ -45,7 +45,7 @@
 |------|-------------|
 | 🐳 [homelab](https://github.com/Sslicky/homelab) | Stacks Docker, configs services auto-hébergés |
 | 💻 [scripts-microsoft](https://github.com/Sslicky/scripts-microsoft) | Scripts PowerShell · Intune · Entra ID · Exchange |
-| 📋 [infra-procedures](https://github.com/Sslicky/infra-procedures) | Runbooks & procédures IT en Markdown |
+| 📋 [infra-procedures](https://github.com/Sslicky/infra-procedures) | Runbooks &amp; procédures IT en Markdown |
 | 📊 [monitoring](https://github.com/Sslicky/monitoring) | Dashboards Grafana · configs Prometheus |
 
 ---
@@ -53,8 +53,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sslicky&show_icons=true&theme=dark&bg_color=171614&title_color=4f98a3&icon_color=4f98a3&text_color=cdccca&border_color=393836" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sslicky&layout=compact&theme=dark&bg_color=171614&title_color=4f98a3&text_color=cdccca&border_color=393836" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sslicky&amp;show_icons=true&amp;theme=dark&amp;bg_color=171614&amp;title_color=4f98a3&amp;icon_color=4f98a3&amp;text_color=cdccca&amp;border_color=393836" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sslicky&amp;layout=compact&amp;theme=dark&amp;bg_color=171614&amp;title_color=4f98a3&amp;text_color=cdccca&amp;border_color=393836" height="165"/>
 </div>
 
 ---
