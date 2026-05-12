@@ -1,35 +1,11 @@
 <!-- Animated header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:01696f,100:0c4e54&height=200&section=header&text=Sslicky&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=IT%20Infrastructure%20Manager&descAlignY=58&descColor=a0d4d8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:01696f,100:0c4e54&height=200&section=header&text=Sslicky&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=IT%20Infrastructure%20%26%20Homelab&descAlignY=58&descColor=a0d4d8" width="100%"/>
 </div>
 
-<h3 align="center">👋 Bonjour, je suis Maxence</h3>
 <p align="center">
-  <b>IT Infrastructure Manager</b> · Lyon, France 🇫🇷<br/>
-  Administration multi-sites · Cloud · Réseau · Cybersécurité
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://img.shields.io/badge/Lyon%2C%20France-01696f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lyon"/>
   <img src="https://komarev.com/ghpvc/?username=Sslicky&style=for-the-badge&color=01696f" alt="Profile views"/>
 </p>
-
----
-
-## 🏗️ Ce que je fais
-
-> Gestion d'infrastructure IT multi-sites (France 🇫🇷 · Portugal 🇵🇹 · Roumanie 🇷🇴 · Suisse 🇨🇭)
-
-- 🔐 Administration de clusters **Fortinet FortiGate** avec routage BGP
-- ☁️ Infrastructure hybride **Microsoft 365 / Azure / Entra ID**
-- 📱 Gestion MDM avec **Microsoft Intune** (Windows, iOS, Android)
-- 🐳 Homelab **Docker** & auto-hébergement de services
-- 📊 Supervision réseau : **Grafana · Prometheus · SNMP**
-- 🛡️ Conformité sécurité **ISO 27001** et audits IT
-- 🗂️ Documentation sur **IT Glue**
 
 ---
 
